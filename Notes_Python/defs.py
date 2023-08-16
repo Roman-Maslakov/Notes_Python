@@ -1,6 +1,6 @@
 from datetime import datetime
 
-PATH = 'Notes Python\\notes.csv'
+PATH = 'Notes_Python\\notes.csv'
 
 def input_command():
     command = input("  ")
